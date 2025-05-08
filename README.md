@@ -1,44 +1,34 @@
+# Echo Meet - Frontend
 
-# echo meet front-rnd
+Este repositório foi originalmente criado por [Gabriel Teotônio](https://github.com/gabriel-teotonio) e outros colaboradores.
 
+## Contribuições de Ian:
+Eu, Ian, colaborei com o desenvolvimento do projeto, com foco nas seguintes funcionalidades:
 
+- **Tela de login**: Desenvolvimento da interface de login, incluindo validação de dados.
+- **Tela de cadastro**: Implementação da tela para registro de novos usuários.
+- **Integração com API**: Conexão com a API de videoconferência para autenticação e manipulação de dados do usuário.
+- **Design Responsivo**: Melhorias no layout, garantindo que o sistema seja acessível e funcional em dispositivos móveis e desktops.
 
+## Funcionalidades:
 
-## ⚙️ Como Instalar e Executar o Projeto
+- Tela de login
+- Tela de cadastro
+- Integração com API de videoconferências
+- Design responsivo
 
+## Tecnologias usadas:
 
+- **React.js**
+- **TypeScript**
+- **Mantine** (UI framework)
+- **Speech to Text da Google Cloud** (API utilizada para transcrição de áudio em texto)
 
-1.Clonar o Repositório Clone o repositório do projeto para sua máquina local:
+## Como rodar o projeto:
 
-```bash
-  git clone https://github.com/gabriel-teotonio/echo-meet-frontend.git
-```
-    
-2.Acessar o Diretório do Projeto Entre no diretório do projeto:
+### 1. Clonar o Repositório
 
-```bash
-cd nome-do-repositorio 
-```
-
-3.Instalar Dependências Instale todas as dependências necessárias:
-
-```bash
-    npm install ou yarn install
-```
-
-
-4.Rodar o Projeto Execute o servidor de desenvolvimento:
-
-```bash
-   npm run dev
-```
-
-
-5.Abra seu navegador e acesse a URL:
+Clone o repositório do projeto para sua máquina local:
 
 ```bash
-    http://localhost:5173
-```
-
-Depois disso você pode fazer as moficações e mandar as alterações para esse repositorio 
-Crie uma branch com o nome da feature ou seu nome mesmo ;)
+git clone https://github.com/Yrmih/Echo-Meet-frontend.git
